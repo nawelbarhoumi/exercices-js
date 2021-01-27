@@ -1,0 +1,1 @@
+document.getElementById("input1").value="vous avez réussi";
